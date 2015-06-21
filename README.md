@@ -3,9 +3,9 @@
 [![Latest Stable Version](https://poser.pugx.org/fakerino/nette-fakerino/v/stable.svg)](https://packagist.org/packages/fakerino/nette-fakerino)
 [![License](https://poser.pugx.org/fakerino/nette-fakerino/license.svg)](https://packagist.org/packages/fakerino/nette-fakerino)
 
-Provides an easy way to include [Fakerino](https://github.com/niklongstone/Fakerino) in [Nette framework](http://nette.org/en/) as a service.
+Provides an easy way to include [Fakerino](https://github.com/Fakerino/Fakerino) in [Nette framework](http://nette.org/en/) as a service.
 
-More information in the [official documentation](https://github.com/niklongstone/Fakerino/wiki).
+More information in the [official documentation](https://www.fakerino.io).
 
 ## Installation
 
