@@ -5,7 +5,7 @@
 
 Provides an easy way to include [Fakerino](https://github.com/Fakerino/Fakerino) in [Nette framework](http://nette.org/en/) as a service.
 
-More information in the [official documentation](https://www.fakerino.io).
+More information in the [official documentation](http://www.fakerino.io).
 
 ## Installation
 
